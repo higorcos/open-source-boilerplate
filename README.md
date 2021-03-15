@@ -1,6 +1,6 @@
 # Open Source Boilerplate
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/github/license/higorcos/Blog_Press.js?color=blue)]()
 
 > :rocket: A template to help you create open source projects more organized.
 
